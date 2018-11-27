@@ -99,7 +99,7 @@ msgstr "Empresa"
 #: model:ir.actions.act_window,name:product_brand.action_open_single_product_brand
 #: model:ir.ui.view,arch_db:product_brand.product_brand_search_form_view
 msgid "Product Brand"
-msgstr "Marca de producto"
+msgstr "Marca de Vehículo"
 
 #. module: product_brand
 #: model:ir.ui.menu,name:product_brand.menu_product_brand
